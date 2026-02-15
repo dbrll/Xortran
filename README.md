@@ -36,11 +36,22 @@ PDP-11/34A would have typically been used, as it was the smallest and most
 affordable PDP-11 model equipped with an FP11 floating-point processor in the
 late 1970s.
 
-The training of the 17 parameters should take a couple minutes on a real
+The training of the 17 parameters takes a couple minutes on a real
 PDP-11/34A. In SIMH, setting the throttle to 200K (`set throttle 200K`) provides
 a more realistic execution speed. The PDP-11 version requires 32 kilobytes of
 memory, most of it for RT-11.
 
+<figure>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f88b844f-95a9-4a98-9592-085b0e3f3544" width="50%">
+<figcaption>
+</p>   
+<p align="center">
+<i>Running Xortran on my PDP-11/34. The RK05 drive is emulated with a Unibone.</i></figcaption>
+</p>   
+</figure>
+
+   
 ### Output
 
 After starting, the neural network is trained on the XOR problem. The output
@@ -115,16 +126,5 @@ research funding alive, encouraged systematic exploration of hidden layers,
 gradient descent variants, and activation functions, and perhaps even seeded
 early industrial applications in pattern recognition and process control.
 
-XORTRAN is therefore not just a curiosity, it is a tiny time-machine showing
-that the hardware and software of 1965 were already sufficient for neural
-networks. Only the ideas and a few hundred lines of Fortran were missing.
+Only the ideas and a few hundred lines of Fortran were missing.
 
-Enjoy the punch cards.
-
-## Licence
-
-© 2025 Damien Boureille
-
-This code is released under the MIT License.\
-You are free to use, copy, modify, and redistribute it, provided that you credit
-the original author.
