@@ -1,4 +1,4 @@
-# XORTRAN
+ # XORTRAN
 
 XORTRAN is a multilayer perceptron (MLP) neural network written in FORTRAN IV,
 compiled and executed for both the IBM 1130 (1965) and the PDP-11 (1970~1980).
@@ -43,7 +43,7 @@ memory, most of it for RT-11.
 
 <figure>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f88b844f-95a9-4a98-9592-085b0e3f3544" width="50%">
+<img src="https://github.com/user-attachments/assets/10cec0ed-2e81-4baa-947d-7861e9821395" width="50%">
 <figcaption>
 </p>   
 <p align="center">
