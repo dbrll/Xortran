@@ -43,7 +43,7 @@ memory, most of it for RT-11.
 
 <figure>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/10cec0ed-2e81-4baa-947d-7861e9821395" width="50%">
+<img src="https://github.com/user-attachments/assets/b0503565-94b8-4640-95d9-7d2f4758b584" width="50%">
 <figcaption>
 </p>   
 <p align="center">
